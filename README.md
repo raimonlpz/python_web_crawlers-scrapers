@@ -1,2 +1,2 @@
-# python_web_crawlers-scrapers
+# python_web_crawlers_scrapers
 web scraping notes + code snippets 
